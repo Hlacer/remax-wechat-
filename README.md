@@ -1,5 +1,7 @@
 # Remax Wechat
 
+自用
+
 使用 Remax 开发微信小程序的云开发模板。
 <br/>
 在cloudfunctions中写云函数
