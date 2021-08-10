@@ -1,0 +1,27 @@
+export declare const alias: {
+    id: string;
+    className: string;
+    style: string;
+    animation: string;
+    indicatorDots: string;
+    indicatorColor: string;
+    indicatorActiveColor: string;
+    autoplay: string;
+    current: string;
+    interval: string;
+    duration: string;
+    circular: string;
+    vertical: string;
+    previousMargin: string;
+    nextMargin: string;
+    displayMultipleItems: string;
+    skipHiddenItemLayout: string;
+    easingFunction: string;
+    onChange: string;
+    onTransition: string;
+    onAnimationFinish: string;
+    onTap: string;
+    onClick: string;
+    snapToEdge: string;
+};
+export declare const props: string[];

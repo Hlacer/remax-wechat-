@@ -1,0 +1,38 @@
+page {
+    background-color: #eeeeee;
+}
+
+.topBar {
+    width: 100%;
+    height: 350rpx;
+    background-color: white;
+}
+
+.user {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name {
+    font-weight: 600;
+}
+
+.avatar {
+    border: 1px solid gainsboro;
+    border-radius: 50%;
+    width: 230 rpx;
+    height: 230 rpx;
+    margin-top: 20 rpx;
+    margin-bottom: 20 rpx;
+    text-align: center;
+}
+
+.default {
+    margin: auto;
+    border-radius: 50%;
+    border:8rpx solid #e0e0e0;
+    margin: 20rpx auto;
+    width: 180rpx;
+    height: 180rpx;
+}
